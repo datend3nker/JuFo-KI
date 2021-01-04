@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "JugendForscht", "JugendForscht.pyproj", "{D32CCF0E-2CD4-40F4-A2FB-5B987E13403A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32CCF0E-2CD4-40F4-A2FB-5B987E13403A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32CCF0E-2CD4-40F4-A2FB-5B987E13403A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D32CCF0E-2CD4-40F4-A2FB-5B987E13403A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32CCF0E-2CD4-40F4-A2FB-5B987E13403A}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {532EB5BD-A3CC-479F-951E-586D898657D7}
+	EndGlobalSection
+EndGlobal
