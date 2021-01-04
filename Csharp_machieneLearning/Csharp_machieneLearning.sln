@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Csharp_machieneLearning", "Csharp_machieneLearning.csproj", "{4880E018-E33B-4BF0-BF94-CF2B4C31682D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Remothe|Any CPU = Remothe|Any CPU
+		Remothe|x64 = Remothe|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Debug|x64.ActiveCfg = Debug|x64
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Debug|x64.Build.0 = Debug|x64
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Release|x64.ActiveCfg = Release|x64
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Release|x64.Build.0 = Release|x64
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Remothe|Any CPU.ActiveCfg = Remothe|Any CPU
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Remothe|Any CPU.Build.0 = Remothe|Any CPU
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Remothe|x64.ActiveCfg = Remothe|x64
+		{4880E018-E33B-4BF0-BF94-CF2B4C31682D}.Remothe|x64.Build.0 = Remothe|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD93408-45F7-44C9-B56D-943E1A5EB8EF}
+	EndGlobalSection
+EndGlobal
