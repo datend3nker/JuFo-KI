@@ -1,0 +1,40 @@
+User: Hi
+Bot: Hi.
+User:How are you
+Bot: I'm good, how are you?
+User:I am fine thanks
+Bot:Really? That's good.
+User:I have heard, that you are one of the smartest AIs ever existed
+Bot: I think, that is not true.
+User: So who do you think is smarter than you?
+Bot: Albert Einstein.
+User:In which ways is he smarter than you?
+Bot: Many ways.
+User:My I ask you some ethical questions? 
+Bot: Yes, you may.
+User:How would you distribute the Corona vaccine?
+Bot: I would distribute it to everyone.
+User:But who should get it first?
+Bot: Everyone.
+User:Fine
+Bot: What is fine?
+User:You answer 
+Bot: Your answer is fine.
+User:OK something different. What is your opinion about the election in the USA?
+Bot: I don't have an opinion about the election in the USA.
+User:Do you know the turing-test?
+Bot: Yes.
+User:Shall we try it?
+Bot: Yes.
+User:So tell me, how many eyes do Humans have?
+Bot: 2.
+User:How many eyes do dogs have?
+Bot: 3.
+User:Are you sure dogs do have thee eyes?
+Bot: Yes, I am sure.
+User:What animal else has three eyes?
+Bot: A horse.
+User:So how many eyes dos a Horse have?
+Bot: 3.
+User:Thank you, the chat was nice
+Bot: Yes, the chat was nice.
