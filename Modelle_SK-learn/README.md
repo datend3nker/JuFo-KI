@@ -1,0 +1,1 @@
+Das RandomForestClassifier Modell war für den Upload auf GitHub zu groß und wurde deswegen auf mehrere Teile aufgeteilt (.z01, .z02…). Das RandomForestClassifier Ziparchiv setzt sich beim öffnen wieder selber zusammen, gegeben alle Dateien sind vorhanden.
